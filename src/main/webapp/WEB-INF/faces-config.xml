@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faces-config
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_2_1.xsd"
+    version="2.1">
+	<!-- 
+	This file has become mostly obsolete with JSF 2 and up, but it is still best to provide it even if it is empty.
+	Some servers keep an eye on it to know when something needs to be redeployed - Tomcat is one of them.
+	-->
+</faces-config>
